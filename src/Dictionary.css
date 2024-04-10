@@ -39,25 +39,20 @@ input[type="search"] {
 .Results h2 {
   font-size: 72px;
   color: #0063d7;
-  text-align: left;
+
   font-weight: bold;
-  padding-left: 20px;
-  margin: 20px;
 }
 
 .Phonetic {
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 700px;
   color: #888;
+  text-align: center;
 }
 
 .Meaning {
   text-align: left;
   margin-left: auto;
   margin-right: auto;
-  max-width: 700px;
+  max-width: 800px;
 }
 
 .Meaning h3 {
