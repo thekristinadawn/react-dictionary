@@ -19,7 +19,6 @@ html {
   font-size: 48px;
   font-weight: bold;
   color: black;
-  margin-bottom: 20px;
 }
 
 .Dictionary {
@@ -42,13 +41,16 @@ input[type="search"] {
   color: #0063d7;
   text-align: left;
   font-weight: bold;
-  padding-left: 47px;
+  padding-left: 20px;
+  margin: 20px;
 }
 
-.Pronunciation {
-  font-size: 1.5em;
+.Phonetic {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
   color: #888;
-  margin-bottom: 20px;
 }
 
 .Meaning {
