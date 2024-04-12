@@ -9,13 +9,6 @@ html {
   text-align: center;
 }
 
-.container {
-  max-width: 800px;
-  margin: auto;
-  margin-bottom: 30px;
-  padding: 20px;
-}
-
 .App-header {
   font-size: 48px;
   font-weight: bold;
@@ -31,18 +24,6 @@ input[type="search"] {
   padding: 10px;
   width: 80%;
   margin-bottom: 20px;
-}
-
-.Results {
-  border: 10px solid #0063d7;
-  padding-bottom: 20px;
-}
-
-.Results h2 {
-  font-size: 72px;
-  color: #0063d7;
-
-  font-weight: bold;
 }
 
 .Meaning {
