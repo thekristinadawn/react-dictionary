@@ -12,7 +12,7 @@ export default function Photos(props) {
                 <a href={photo.src.original} target="_blank" rel="noreferrer">
                   <img
                     src={photo.src.landscape}
-                    alt="related word image"
+                    alt="word"
                     className="img-fluid"
                   />
                 </a>
