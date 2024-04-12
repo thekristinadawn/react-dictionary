@@ -12,6 +12,7 @@ html {
 .container {
   max-width: 800px;
   margin: auto;
+  margin-bottom: 30px;
   padding: 20px;
 }
 
@@ -34,6 +35,7 @@ input[type="search"] {
 
 .Results {
   border: 10px solid #0063d7;
+  padding-bottom: 20px;
 }
 
 .Results h2 {
@@ -41,11 +43,6 @@ input[type="search"] {
   color: #0063d7;
 
   font-weight: bold;
-}
-
-.Phonetic {
-  color: #888;
-  text-align: center;
 }
 
 .Meaning {

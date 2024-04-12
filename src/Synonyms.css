@@ -1,0 +1,32 @@
+.Synonyms {
+  margin: 15px 0;
+  padding-bottom: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.Synonyms strong {
+  font-size: 16px;
+  color: #333;
+  margin-right: 10px;
+}
+
+.Synonyms ul {
+  display: inline;
+  padding: 0;
+}
+
+.Synonyms li {
+  font-size: 14px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  padding: 3px 8px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.Synonyms li:hover {
+  background-color: #e2e2e2;
+}

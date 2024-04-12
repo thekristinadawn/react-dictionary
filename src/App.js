@@ -2,7 +2,7 @@ import "./App.css";
 import Dictionary from "./Dictionary";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="container">
@@ -10,10 +10,10 @@ function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer className="App-footer">Coded by Kristina Dawn</footer>
+        <footer className="App-footer">
+          <small>Coded by Kristina Dawn</small>
+        </footer>
       </div>
     </div>
   );
 }
-
-export default App;

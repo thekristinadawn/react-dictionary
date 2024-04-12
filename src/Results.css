@@ -1,0 +1,22 @@
+.Results {
+  border: 10px solid #0063d7;
+  padding-bottom: 20px;
+}
+
+.Results h2 {
+  font-size: 72px;
+  color: #0063d7;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.Results .col {
+  padding-left: 30px;
+  padding-right: 30px;
+}
